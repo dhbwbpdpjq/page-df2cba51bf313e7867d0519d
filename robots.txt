@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-2831a3c93f.bhcci.cn/sitemap.xml

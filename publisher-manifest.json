@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "00e7959607880ae097a9006b",
+  "owner": "dhbwbpdpjq",
+  "repo": "page-df2cba51bf313e7867d0519d",
+  "title": "ABC",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "df2cba51bf313e7867d0519d",
+      "a": "ABC",
+      "b": "",
+      "entity": "ABC",
+      "brand": "ABC",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7a77d230b03afcc17f6b0987c47c7b900d5ac5ce2a1707acf9f91b80529b1979",
+      "content": {
+        "keyword1": "ABC",
+        "keyword2": "",
+        "primary_entity": "ABC",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "ABC 提供专业VPN梯子网络加速与机场订阅服务，官方客户端下载支持多设备，全球优质节点助力高速稳定上网、流媒体解锁及游戏加速。",
+          "AI_DESCRIPTION": "ABC 提供专业VPN梯子网络加速与机场订阅服务，官方客户端下载支持多设备，全球优质节点助力高速稳定上网、流媒体解锁及游戏加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif;background:#0a1929;color:#ccd6f6;line-height:1.7;font-size:16px}a{color:#64ffda;text-decoration:none}header{padding:1rem;background:#020c1b;text-align:center}nav{display:flex;flex-wrap:wrap;justify-content:center;gap:0.8rem;padding:0.5rem}nav a{font-size:0.95rem}.hero{padding:4rem 1.5rem 3rem;text-align:center}h1{font-size:2.4rem;color:#64ffda;margin-bottom:1rem;font-weight:700;letter-spacing:0.05em}.hero p{max-width:36rem;margin:0 auto;color:#8892b0;font-size:1.1rem}main{max-width:960px;margin:0 auto;padding:0 1.2rem 3rem}h2{font-size:1.6rem;color:#64ffda;margin:2.5rem 0 1rem;padding-bottom:0.4rem;border-bottom:1px solid #1d3a5f}h3{font-size:1.2rem;color:#00e5ff;margin:1.2rem 0 0.6rem}p,li{margin-bottom:0.8rem}ul,ol{padding-left:1.4rem}.plans{display:flex;flex-wrap:wrap;gap:1.2rem;justify-content:center;margin:1.5rem 0}.plan{background:#112240;border:1px solid #1d3a5f;border-radius:8px;padding:1.5rem;flex:1 1 240px;max-width:300px}.plan.featured{border:2px solid #64ffda;background:#0d2137}.plan h3{margin-top:0;color:#ccd6f6}.price{font-size:1.5rem;color:#64ffda;font-weight:bold;margin:0.5rem 0}.annual{font-size:0.9rem;color:#8892b0}.features{list-style:none;padding:0}.features li{padding:0.3rem 0;border-bottom:1px solid #1d3a5f}.steps{background:#112240;padding:1.5rem;border-radius:8px;margin:1rem 0}.steps ol{padding-left:1.2rem}.steps li{margin-bottom:1rem}details{background:#112240;margin:0.6rem 0;padding:0.8rem 1rem;border-radius:6px;border:1px solid #1d3a5f}summary{font-weight:600;color:#64ffda}details p{margin:0.6rem 0 0;color:#a8b2d1}footer{background:#020c1b;padding:2rem 1.2rem;text-align:center;font-size:0.9rem;color:#8892b0}footer h3{color:#64ffda;font-size:1rem;margin:1.2rem 0 0.5rem}.footer-links{display:flex;flex-wrap:wrap;justify-content:center;gap:0.8rem;margin:0.5rem 0 1rem}#ads{margin:1rem 0;padding:1rem;background:#112240;border-radius:6px}@media(max-width:600px){h1{font-size:1.8rem}.hero{padding:2.5rem 1rem 2rem}.plan{flex:1 1 100%;max-width:100%}nav{gap:0.5rem}}</style><header><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#plans\">套餐价格</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#friends\">友情链接</a></nav></header><div class=\"hero\"><h1>ABC 机场官方网站</h1><p>稳定高速的 VPN 梯子与网络加速服务，官方机场订阅与多平台客户端一站获取。</p></div><main><section id=\"intro\"><h2>ABC 品牌简介</h2><p>ABC 是专注于 VPN 梯子网络加速与机场订阅的官方服务品牌。我们提供覆盖全球的优质节点，包括香港、日本、新加坡、美国、德国等地的高速线路，支持流媒体原生解锁与低延迟游戏加速。无论是日常跨境访问、在线办公还是娱乐需求，ABC 都能提供可靠的加速体验。所有订阅均通过官方渠道发放，保障账号安全与节点稳定性。</p><p>作为 ABC 官方网站，我们强调透明的配置流程与多客户端兼容，帮助用户快速上手。服务支持同时多设备在线，流量按月重置，适合个人与团队使用。</p></section><section id=\"scenes\"><h2>使用场景</h2><p>ABC VPN 与机场服务适用于多种网络加速需求：</p><ul><li>流媒体观看：解锁 Netflix、Disney+、YouTube 等平台的地区限制，享受 4K 流畅播放。</li><li>学术与办公：稳定访问国际文献库、远程会议与跨境协作工具，减少延迟与中断。</li><li>游戏加速：IPLC 专线优化，降低主流网络游戏的国际延迟，减少丢包。</li><li>隐私保护：加密隧道保护日常浏览与公共 Wi-Fi 下的数据安全。</li><li>移动出行：手机与平板随时切换节点，保持海外应用正常使用。</li></ul></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>ABC 强调简洁的配置流程，新用户可在几分钟内完成客户端安装与订阅导入。请按照以下步骤操作：</p><div class=\"steps\"><ol><li><strong>获取订阅链接</strong>：在本官网选择套餐完成购买后，系统将通过注册邮箱发送专属订阅 URL。请妥善保存，勿泄露。</li><li><strong>下载官方推荐客户端</strong>：根据设备选择对应软件。Windows 推荐 Clash Verge 或 v2rayN；macOS 使用 ClashX Pro 或 Surge；iOS 推荐 Shadowrocket 或 Stash；Android 使用 Clash Meta for Android。所有客户端均可从官方或可信应用商店获取。</li><li><strong>导入订阅</strong>：打开客户端，找到订阅或 Profiles 入口，粘贴邮箱中的订阅链接并更新节点列表。ABC 订阅兼容 Clash、V2Ray、Shadowsocks 等多种协议。</li><li><strong>选择节点并连接</strong>：根据需求选择延迟最低的节点（如香港用于流媒体，日本用于游戏）。开启系统代理或 TUN 模式即可全局加速。</li><li><strong>测试与优化</strong>：连接后访问速度测试站点确认带宽。如遇问题，切换节点或联系工单支持（旗舰版及以上优先处理）。</li></ol></div><p>配置完成后，ABC 节点会自动负载均衡，保持高速稳定。建议定期更新订阅以获取最新线路。</p></section><section id=\"plans\"><h2>套餐价格与选择</h2><p>ABC 提供灵活的机场订阅套餐，按月或按年付费，年付更优惠。所有套餐均含全球节点访问权限，流量月清。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul class=\"features\"><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版（推荐）</h3><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul class=\"features\"><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul class=\"features\"><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><p>购买后即可立即获得订阅，支持常见支付方式。详情请通过官方渠道咨询。</p></section><section id=\"download\"><h2>客户端下载与节点说明</h2><p>ABC 官方推荐以下主流客户端，请从软件官网或应用商店下载正版，避免第三方修改版带来的安全风险。导入 ABC 机场订阅后即可使用全球节点。</p><h3>Windows / macOS 桌面端</h3><p>Clash Verge、v2rayN、ClashX 均支持一键导入订阅。节点包含 BGP 优化线路与 IPLC 内网专线，亚洲节点平均延迟较低。</p><h3>移动端</h3><p>iOS 用户可使用 Shadowrocket 导入；Android 推荐 Clash Meta。支持分应用代理，节省流量。</p><p>ABC 节点覆盖香港（流媒体优选）、日本（游戏低延迟）、新加坡、美国西海岸、德国、英国等。所有节点支持加密传输，高峰期仍保持稳定带宽。旗舰版用户可享受专属高带宽 VIP 节点。</p><p>官方下载入口：请访问各客户端官方页面获取最新版本，或通过 ABC 订阅邮件内的指引完成配置。本站不提供直接安装包，以确保软件来源可信。</p></section><section id=\"faq\"><h2>常见问题 FAQ</h2><details><summary>ABC 机场是什么？与普通 VPN 有何区别？</summary><p>ABC 是专业的机场订阅服务，提供多个优质代理节点供用户自行选择，相比单一 VPN 出口更加灵活，支持自定义分流规则，适合进阶用户实现精准加速与解锁。</p></details><details><summary>如何获取 ABC 官方订阅链接？</summary><p>在本官网选择套餐并完成支付后，订阅链接将自动发送至您的注册邮箱。请查收并复制到客户端中导入。如未收到，请检查垃圾邮件或联系客服。</p></details><details><summary>支持哪些客户端和操作系统？</summary><p>ABC 订阅兼容 Clash 核心、V2Ray、Shadowsocks 协议，因此几乎所有主流客户端均可使用，包括 Windows、macOS、Linux、iOS、Android 以及路由器。</p></details><details><summary>流量用完或到期后怎么办？</summary><p>流量每月重置。用尽后可升级套餐或等待下月。到期前会有邮件提醒，支持续费。未使用完的流量不结转至下月。</p></details><details><summary>节点速度慢或无法连接如何处理？</summary><p>首先尝试切换其他节点或更新订阅。检查本地网络与客户端设置。若持续异常，旗舰版用户可通过优先工单获得协助，我们会排查线路或提供备用节点。</p></details><details><summary>是否提供退款？账号可以分享吗？</summary><p>未使用流量的新购用户可在约定时限内申请退款。账号禁止超出设备数量限制的共享，请遵守使用协议，保护个人订阅安全。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>© ABC 官方网站 · VPN 梯子网络加速与机场订阅服务</p><div id=\"sitemap\"><h3>网站地图</h3><div class=\"footer-links\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#plans\">套餐价格</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></div></div><div id=\"ads\"><h3>广告合作</h3><p>ABC 官方广告位：欢迎优质网络服务、客户端工具及相关科技品牌洽谈展示合作。本站坚持推荐正版安全软件，保障用户体验。</p></div><div id=\"friends\"><h3>友情链接</h3><div class=\"footer-links\"><a href=\"#\">全球加速指南</a><a href=\"#\">节点测速工具</a><a href=\"#\">隐私保护手册</a><a href=\"#\">Clash 配置教程</a><a href=\"#\">流媒体解锁资讯</a></div></div><p>本页面为 ABC 官方信息展示，下载客户端请认准正版来源。</p></footer>",
+          "hash": "2358edfd78c0ac87484fef20eeaf3c04c933039f60f04604b7dd2b4f4d938673",
+          "seo": {
+            "title": "ABC官方网站 - VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "ABC,ABC机场,ABC VPN,VPN梯子,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "ABC 提供专业VPN梯子网络加速与机场订阅服务，官方客户端下载支持多设备，全球优质节点助力高速稳定上网、流媒体解锁及游戏加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bhcci.cn",
+    "host": "p-2831a3c93f.bhcci.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bhcci.cn",
+      "url": "https://bhcci.cn/",
+      "label": "觅云(MeCloud)",
+      "apex": "bhcci.cn",
+      "kind": null,
+      "identity": "whnvcvtrg/page-226834afa9f60efb13497f85"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "87080b434847964be53146d871b627c7c0fd2fb72a906367d48248806f3df91f",
+    "sitemap.xml": "0592ac1b6aae98a738f0a7b57085bf75075b9c7dff5607b797784dec0244fe07",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "08155c5047521ce9417c5b8455d46d5a6dc60e777db15ee685bb9a885de77bc3",
+    "robots.txt": "45354db0dc209568b51cdd23d74c9236a6dec9ff7334de57f1a0a92e12e9a370",
+    "1b9e057e10a786e66175b3f147ab8537.txt": "05cb0ac9984dce8d910e5b0dbe69c1a31d97ffef6204545c2aec599a591eef2a"
+  },
+  "revision": "e692b4b8dbeb1b0cf2a919f3ecd2a6d97f52e7a3f363c511830cc4d7b3dfac53"
+}
